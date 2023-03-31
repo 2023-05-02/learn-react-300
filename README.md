@@ -9,4 +9,3 @@
 
 ## Ref
 
-* [波神 event loop文章](https://mp.weixin.qq.com/s/m3a6vjp8-c9a2EYj0cDMmg)
