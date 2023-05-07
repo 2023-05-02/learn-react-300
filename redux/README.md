@@ -1,5 +1,11 @@
 # Redux
 
+```javascript
+import { createStore, combineReducers, applyMiddleware, bindActionCreators } from "redux";
+import { Provider } from 'react-redux';
+import { connect } from "react-redux";
+```
+
 
 ## Ref
 
