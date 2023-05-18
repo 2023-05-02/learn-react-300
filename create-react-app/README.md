@@ -13,15 +13,14 @@
 * [https://create-react-app.dev/](https://create-react-app.dev/)
 
 
-## bubucuo
+## [lesson3-环境配置与react-router简介_208](https://www.bilibili.com/video/BV1cD4y1R7UG?p=3&vd_source=a59b1bbab5886cfdc3ab8370ba039efc)
 
 * <https://github.com/dilanx/craco>
 
 
 
-## #11 装饰器函数 @connect
+## [#11 装饰器函数 @connect](https://www.qiuzhi99.com/movies/react-redux/155.html)
 
-> <https://www.qiuzhi99.com/movies/react-redux/155.html>
 
 * <https://github.com/kitze/custom-react-scripts>
 * [customize-cra](https://github.com/arackaf/customize-cra) - `CRA 2`
