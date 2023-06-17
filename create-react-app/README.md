@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Mon Jun 13 09:56:18 CST 2022` | -
+`Sat Jun 17 23:47:54 CST 2023` | `Mon Jun 13 09:56:18 CST 2022`
 
 ### Adding Custom Environment Variables
 
@@ -11,6 +11,7 @@
 ## Ref
 
 * [https://create-react-app.dev/](https://create-react-app.dev/)
+* [在 create-react-app 中使用 - Ant Design](https://4x.ant.design/docs/react/use-with-create-react-app-cn/)
 
 
 ## [lesson3-环境配置与react-router简介_208](https://www.bilibili.com/video/BV1cD4y1R7UG?p=3&vd_source=a59b1bbab5886cfdc3ab8370ba039efc)
