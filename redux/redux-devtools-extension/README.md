@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Mon Jun 13 09:56:18 CST 2022` | -
+`Mon Jun 19 21:20:59 CST 2023` | -
 
 ```bash
 npm install --save @redux-devtools/extension
@@ -22,6 +22,5 @@ const store = createStore(
 
 ## Ref
 
-* [Redux DevTools](https://github.com/reduxjs/redux-devtools)、 ~~[Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)~~
-* [Redux DevTools - Chrome 应用商店](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [Redux DevTools](https://github.com/reduxjs/redux-devtools)
 * [Redux DevTools 与 `replaceReducer` 冲突导致代码多次执行](https://github.com/dvajs/dva/issues/41)
